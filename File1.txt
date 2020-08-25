@@ -1,7 +1,8 @@
 Hello This is File1 
 Welcome to Git!!!
 
-main(){
+Change1
+public static void main(String args[]){
 
-	sysout("Hello from git");
+	System.out.println("Hello from git");
 }
