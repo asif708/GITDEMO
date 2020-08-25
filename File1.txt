@@ -3,6 +3,7 @@ Welcome to Git!!!
 
 Change1
 Change2 made by user2
+This is awssome change by user2
 public static void main(String args[]){
 
 	System.out.println("Hello from git");
