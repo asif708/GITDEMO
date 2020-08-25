@@ -1,10 +1,14 @@
-Hello This is File1 
-Welcome to Git!!!
+//Hello This is File1 
+//Welcome to Git!!!
 
-Change1
-Change2 made by user2
-This is awssome change by user2
-public static void main(String args[]){
+//Change1
+//Change2 made by user2
+//This is awssome change by user2
 
-	System.out.println("Hello from git");
+class MyClass{
+
+	public static void main(String args[]){
+
+		System.out.println("Hello from git");
+	}
 }
